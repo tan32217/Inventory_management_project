@@ -1,0 +1,38 @@
+[
+    {
+        "id": 5,
+        "name": "book",
+        "price": 10,
+        "quantity": 100
+    },
+    {
+        "id": 6,
+        "name": "book",
+        "price": 10,
+        "quantity": 100
+    },
+    {
+        "id": 7,
+        "name": "book",
+        "price": 10,
+        "quantity": 100
+    },
+    {
+        "id": 8,
+        "name": "book",
+        "price": 10,
+        "quantity": 100
+    },
+    {
+        "id": 16,
+        "name": "hat",
+        "price": 6.0,
+        "quantity": 27
+    },
+    {
+        "id": 3,
+        "name": "comb",
+        "price": 1.0,
+        "quantity": 63
+    }
+]
